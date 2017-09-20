@@ -22,3 +22,4 @@ var greetSpanish = makeGreeting('es');
 
 greetEnglish("John", "Snow");
 greetSpanish("John", "Snow");
+
